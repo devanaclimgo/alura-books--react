@@ -2,7 +2,7 @@
 #### Feito no curso 'React: comece seu projeto full stack' da Alura.
 
 ## O que é o projeto?
-Alura books é um site de uma biblioteca de livros de programação, contento apenas a página principal. 
+Alura books é um site de uma biblioteca de livros de programação responsivo, contento apenas a página principal. 
 ### O site contém: 
 - Uma header com a logo, links e ícones.
 - Um input inicial para pesquisar os livros disponíveis.
