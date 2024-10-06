@@ -20,4 +20,4 @@ Foi utilizado o Javascript para construir o projeto, com as bibliotecas React.js
 ## Como acessar:
 Acesse o deploy disponível na página do repositório
 
-### Feito por Ana Gomes - 2024 ❤️
+##### Feito por Ana Gomes - 2024 ❤️
