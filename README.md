@@ -16,6 +16,7 @@ Foi utilizado o Javascript para construir o projeto, com as bibliotecas React.js
 <img align="center" alt="Ana-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Ana-React" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
 ## Como acessar:
 Acesse o deploy disponível na página do repositório
 
