@@ -26,6 +26,7 @@ const Botao = styled.button`
     width: 150px;
     &:hover {
         cursor: pointer;
+        background-color: #FFC34D;
     }
 `
 
